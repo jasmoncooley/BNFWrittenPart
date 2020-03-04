@@ -22,10 +22,12 @@ S->CBA->TBA->TDDJA->TesDJA->TestEEEF->Test350F->Test3501 The derivation for Test
 
 Question 2
 
-<assign> -> <var> = <expr>
+<assign> -> <var> = <expr> 
 <var>(int) = <expr>(int)
 <var>(float) = <expr> (int/float)
 
 
-
+<expr> -> <var>+<var>
+<expr>(int) -> var(int) + <var>(float/int)
+<expr>(float)-> <var> (float) +<var>(int/float)
 
