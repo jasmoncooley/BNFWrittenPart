@@ -10,3 +10,7 @@ A represents 3 or more digits
 
 <S> -><C><B><A> S is a sentence
 <C> ->A|B|C|D|E|F|…..etc. C is any letter thats Capital
+<B> -><D><D><J> There are two Ds and a conditional J that represents '2 or more small letters'
+<D> -> a|b|c|d|e...etc
+<J> -> <D><J> | ϵ Loops in order to look for the possibility of more small letters
+<A> -> <E><E><E><F> A represents 3 or more numbers
