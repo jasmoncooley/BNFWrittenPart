@@ -31,3 +31,7 @@ Question 2
 <expr>(int) -> var(int) + <var>(float/int)
 <expr>(float)-> <var> (float) +<var>(int/float)
 
+<expr> -> <var> -<var>
+<expr> (int) -> <var>(float) -<var>(int/float)
+<expr>(float) -> <var>(float) -<var>(int/float)
+
