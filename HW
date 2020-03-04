@@ -1,0 +1,12 @@
+Jasmon Cooley
+Homework 3
+
+
+Question 1
+Write a BNF grammar for the given language.
+C is the first letter which is Capital
+B represents the small letters
+A represents 3 or more digits
+
+<S> -><C><B><A> S is a sentence
+<C> ->A|B|C|D|E|F|…..etc. C is any letter thats Capital
