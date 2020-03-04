@@ -14,3 +14,7 @@ A represents 3 or more digits
 <D> -> a|b|c|d|e...etc
 <J> -> <D><J> | ϵ Loops in order to look for the possibility of more small letters
 <A> -> <E><E><E><F> A represents 3 or more numbers
+
+
+Sub-question
+S->CBA->TBA->TDDJA->TesDJA->TestEEEF->Test350F->Test3501 The derivation for Test 3501
