@@ -18,3 +18,14 @@ A represents 3 or more digits
 
 Sub-question
 S->CBA->TBA->TDDJA->TesDJA->TestEEEF->Test350F->Test3501 The derivation for Test 3501
+
+
+Question 2
+
+<assign> -> <var> = <expr>
+<var>(int) = <expr>(int)
+<var>(float) = <expr> (int/float)
+
+
+
+
